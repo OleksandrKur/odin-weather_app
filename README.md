@@ -1,1 +1,1 @@
-# template-webpack
+# Odin weather app project

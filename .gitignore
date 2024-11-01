@@ -1,2 +1,4 @@
 /node_modules
 /dist
+/src/apikeys.js
+/src/data.js
